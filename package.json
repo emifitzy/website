@@ -1,0 +1,19 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "This is a repository for building a website using node, SQL, and a few other languages TBD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emifitzy/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emifitzy/website/issues"
+  },
+  "homepage": "https://github.com/emifitzy/website#readme"
+}
