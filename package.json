@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a repository for building a website using node, SQL, and a few other languages TBD.",
   "main": "index.js",
   "scripts": {
