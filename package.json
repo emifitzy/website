@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/emifitzy/website#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "4.16.3",
     "grunt": "1.0.2",
     "gulp": "3.9.1",
